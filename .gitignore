@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+=======
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Docker
+*.dockerignore
+Dockerfile
+
+# Unity
+>>>>>>> c295019a0cc828d6f5fb63c42f22af5732252b2e
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+<<<<<<< HEAD
+UserSettings/
+
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+.DS_Store
+Thumbs.db
+02_logs/
+03_models/
+__pycache__
+*.pyc
+.cache/
+=======
+
+# General 
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+*.env
+>>>>>>> c295019a0cc828d6f5fb63c42f22af5732252b2e
